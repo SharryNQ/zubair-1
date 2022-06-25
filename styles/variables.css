@@ -1,0 +1,9 @@
+:root {
+  --main-bg-color: #353535;
+  --main-bg-color-alt: #a1e7ad;
+  --main-bg-color-white: rgb(228, 176, 176);
+  --main-bg-color-yellow: yellow;
+
+  --text-color: #515952;
+  --text-color-alt: rgb(105, 74, 74);
+}
